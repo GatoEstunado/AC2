@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Wall
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Wall
+  - Water
+  - UI
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 1092133321
+    locked: 0
+  - name: Camada 1
+    uniqueID: 968473093
+    locked: 0
+  - name: Camada 2
+    uniqueID: 809198507
+    locked: 0
+  - name: Enemies
+    uniqueID: 2064817121
+    locked: 0
+  - name: Player
+    uniqueID: 1864626985
+    locked: 0
+  - name: Props
+    uniqueID: 2444560643
+    locked: 0
+  - name: Fogo
+    uniqueID: 630891601
+    locked: 0
